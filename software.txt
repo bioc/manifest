@@ -4891,3 +4891,5 @@ Package: QFeaturesGUI
 
 Package: gdscloud
 
+Package: geneClusterPattern
+

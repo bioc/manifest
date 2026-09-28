@@ -97,3 +97,5 @@ Package: org.Hbacteriophora.eg.db
 
 Package: geneslator
 
+Package: TxDb.Osativa.MSU.RGAP7
+

@@ -4899,3 +4899,5 @@ Package: TSSr
 
 Package: LIPIDIFy
 
+Package: multipletR
+

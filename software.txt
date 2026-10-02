@@ -4903,3 +4903,5 @@ Package: multipletR
 
 Package: grayleafspotr
 
+Package: rnaSentry
+

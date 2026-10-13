@@ -4923,3 +4923,5 @@ Package: BatchVaria
 
 Package: DiPPER
 
+Package: IntrinsicScan
+

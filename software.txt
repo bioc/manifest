@@ -4921,3 +4921,5 @@ Package: SpatialData.data
 
 Package: BatchVaria
 
+Package: DiPPER
+

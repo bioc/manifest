@@ -4927,3 +4927,5 @@ Package: IntrinsicScan
 
 Package: SummarizedHeatmap
 
+Package: MsBackendParquet
+

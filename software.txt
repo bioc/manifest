@@ -4929,3 +4929,5 @@ Package: SummarizedHeatmap
 
 Package: MsBackendParquet
 
+Package: karioCaS
+

@@ -4937,4 +4937,5 @@ Package: CMEnt
 
 Package: rols
 
+Package: STRprofilerR
 

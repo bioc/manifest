@@ -1,3 +1,1311 @@
 ## Blank lines between all entries
 Package: flowCore
 Exemptions: no_large_files
+
+Package: affydata
+Exemptions: no_large_files
+
+Package: AffymetrixDataTestFiles
+Exemptions: no_large_files
+
+Package: ALL
+Exemptions: no_large_files
+
+Package: ALLMLL
+Exemptions: no_large_files
+
+Package: AmpAffyExample
+Exemptions: no_large_files
+
+Package: beta7
+Exemptions: no_large_files
+
+Package: bronchialIL13
+Exemptions: no_large_files
+
+Package: CLL
+Exemptions: no_large_files
+
+Package: colonCA
+Exemptions: no_large_files
+
+Package: davidTiling
+Exemptions: no_large_files
+
+Package: ecoliLeucine
+Exemptions: no_large_files
+
+Package: estrogen
+Exemptions: no_large_files
+
+Package: faahKO
+Exemptions: no_large_files
+
+Package: fibroEset
+Exemptions: no_large_files
+
+Package: gaschYHS
+Exemptions: no_large_files
+
+Package: golubEsets
+Exemptions: no_large_files
+
+Package: harbChIP
+Exemptions: no_large_files
+
+Package: HEEBOdata
+Exemptions: no_large_files
+
+Package: hgu2beta7
+Exemptions: no_large_files
+
+Package: HIVcDNAvantWout03
+Exemptions: no_large_files
+
+Package: Iyer517
+Exemptions: no_large_files
+
+Package: kidpack
+Exemptions: no_large_files
+
+Package: MAQCsubset
+Exemptions: no_large_files
+
+Package: MEEBOdata
+Exemptions: no_large_files
+
+Package: ProData
+Exemptions: no_large_files
+
+Package: SNAData
+Exemptions: no_large_files
+
+Package: SpikeIn
+Exemptions: no_large_files
+
+Package: SpikeInSubset
+Exemptions: no_large_files
+
+Package: yeastCC
+Exemptions: no_large_files
+
+Package: yeastExpData
+Exemptions: no_large_files
+
+Package: lungExpression
+Exemptions: no_large_files
+
+Package: lumiBarnes
+Exemptions: no_large_files
+
+Package: hapmap100kxba
+Exemptions: no_large_files
+
+Package: pumadata
+Exemptions: no_large_files
+
+Package: CCl4
+Exemptions: no_large_files
+
+Package: Neve2006
+Exemptions: no_large_files
+
+Package: maqcExpression4plex
+Exemptions: no_large_files
+
+Package: hapmap100khind
+Exemptions: no_large_files
+
+Package: hapmap500knsp
+Exemptions: no_large_files
+
+Package: hapmap500ksty
+Exemptions: no_large_files
+
+Package: XhybCasneuf
+Exemptions: no_large_files
+
+Package: tinesath1cdf
+Exemptions: no_large_files
+
+Package: tinesath1probe
+Exemptions: no_large_files
+
+Package: yeastGSData
+Exemptions: no_large_files
+
+Package: msdata
+Exemptions: no_large_files
+
+Package: hapmapsnp5
+Exemptions: no_large_files
+
+Package: hapmapsnp6
+Exemptions: no_large_files
+
+Package: ITALICSData
+Exemptions: no_large_files
+
+Package: humanStemCell
+Exemptions: no_large_files
+
+Package: mvoutData
+Exemptions: no_large_files
+
+Package: gcspikelite
+Exemptions: no_large_files
+
+Package: dyebiasexamples
+Exemptions: no_large_files
+
+Package: TargetSearchData
+Exemptions: no_large_files
+
+Package: yeastRNASeq
+Exemptions: no_large_files
+
+Package: frmaExampleData
+Exemptions: no_large_files
+
+Package: mouse4302barcodevecs
+Exemptions: no_large_files
+
+Package: hgu133plus2barcodevecs
+Exemptions: no_large_files
+
+Package: hgu133abarcodevecs
+Exemptions: no_large_files
+
+Package: leeBamViews
+Exemptions: no_large_files
+
+Package: geneLenDataBase
+Exemptions: no_large_files
+
+Package: EatonEtAlChIPseq
+Exemptions: no_large_files
+
+Package: dressCheck
+Exemptions: no_large_files
+
+Package: gageData
+Exemptions: no_large_files
+
+Package: mosaicsExample
+Exemptions: no_large_files
+
+Package: affycompData
+Exemptions: no_large_files
+
+Package: simpIntLists
+Exemptions: no_large_files
+
+Package: breastCancerMAINZ
+Exemptions: no_large_files
+
+Package: breastCancerNKI
+Exemptions: no_large_files
+
+Package: breastCancerTRANSBIG
+Exemptions: no_large_files
+
+Package: breastCancerUNT
+Exemptions: no_large_files
+
+Package: breastCancerUPP
+Exemptions: no_large_files
+
+Package: breastCancerVDX
+Exemptions: no_large_files
+
+Package: NCIgraphData
+Exemptions: no_large_files
+
+Package: GSVAdata
+Exemptions: no_large_files
+
+Package: flowWorkspaceData
+Exemptions: no_large_files
+
+Package: pasilla
+Exemptions: no_large_files
+
+Package: LiebermanAidenHiC2009
+Exemptions: no_large_files
+
+Package: yeastNagalakshmi
+Exemptions: no_large_files
+
+Package: PREDAsampledata
+Exemptions: no_large_files
+
+Package: minfiData
+Exemptions: no_large_files
+
+Package: bladderbatch
+Exemptions: no_large_files
+
+Package: GWASdata
+Exemptions: no_large_files
+
+Package: beadarrayExampleData
+Exemptions: no_large_files
+
+Package: TCGAMethylation450k
+Exemptions: no_large_files
+
+Package: tweeDEseqCountData
+Exemptions: no_large_files
+
+Package: BeadArrayUseCases
+Exemptions: no_large_files
+
+Package: serumStimulation
+Exemptions: no_large_files
+
+Package: rheumaticConditionWOLLBOLD
+Exemptions: no_large_files
+
+Package: ffpeExampleData
+Exemptions: no_large_files
+
+Package: pasillaBamSubset
+Exemptions: no_large_files
+
+Package: cnvGSAdata
+Exemptions: no_large_files
+
+Package: cancerdata
+Exemptions: no_large_files
+
+Package: miRNATarget
+Exemptions: no_large_files
+
+Package: PWMEnrich.Dmelanogaster.background
+Exemptions: no_large_files
+
+Package: bsseqData
+Exemptions: no_large_files
+
+Package: TBX20BamSubset
+Exemptions: no_large_files
+
+Package: MEDIPSData
+Exemptions: no_large_files
+
+Package: RMassBankData
+Exemptions: no_large_files
+
+Package: KEGGdzPathwaysGEO
+Exemptions: no_large_files
+
+Package: pd.atdschip.tiling
+Exemptions: no_large_files
+
+Package: ChIPXpressData
+Exemptions: no_large_files
+
+Package: fabiaData
+Exemptions: no_large_files
+
+Package: stemHypoxia
+Exemptions: no_large_files
+
+Package: LungCancerLines
+Exemptions: no_large_files
+
+Package: SNAGEEdata
+Exemptions: no_large_files
+
+Package: pRolocdata
+Exemptions: no_large_files
+
+Package: RforProteomics
+Exemptions: no_large_files
+
+Package: curatedOvarianData
+Exemptions: no_large_files
+
+Package: PathNetData
+Exemptions: no_large_files
+
+Package: DvDdata
+Exemptions: no_large_files
+
+Package: SomatiCAData
+Exemptions: no_large_files
+
+Package: FANTOM3and4CAGE
+Exemptions: no_large_files
+
+Package: ARRmData
+Exemptions: no_large_files
+
+Package: cMap2data
+Exemptions: no_large_files
+
+Package: ConnectivityMap
+Exemptions: no_large_files
+
+Package: DrugVsDiseasedata
+Exemptions: no_large_files
+
+Package: HD2013SGI
+Exemptions: no_large_files
+
+Package: Hiiragi2013
+Exemptions: no_large_files
+
+Package: antiProfilesData
+Exemptions: no_large_files
+
+Package: leukemiasEset
+Exemptions: no_large_files
+
+Package: MMDiffBamSubset
+Exemptions: no_large_files
+
+Package: prebsdata
+Exemptions: no_large_files
+
+Package: DeSousa2013
+Exemptions: no_large_files
+
+Package: RNAseqData.HNRNPC.bam.chr14
+Exemptions: no_large_files
+
+Package: mammaPrintData
+Exemptions: no_large_files
+
+Package: seventyGeneData
+Exemptions: no_large_files
+
+Package: LungCancerACvsSCCGEO
+Exemptions: no_large_files
+
+Package: DonaPLLP2013
+Exemptions: no_large_files
+
+Package: IlluminaDataTestFiles
+Exemptions: no_large_files
+
+Package: TargetScoreData
+Exemptions: no_large_files
+
+Package: Fletcher2013a
+Exemptions: no_large_files
+
+Package: Fletcher2013b
+Exemptions: no_large_files
+
+Package: curatedBladderData
+Exemptions: no_large_files
+
+Package: chipenrich.data
+Exemptions: no_large_files
+
+Package: FlowSorted.Blood.450k
+Exemptions: no_large_files
+
+Package: SomaticCancerAlterations
+Exemptions: no_large_files
+
+Package: PWMEnrich.Hsapiens.background
+Exemptions: no_large_files
+
+Package: PWMEnrich.Mmusculus.background
+Exemptions: no_large_files
+
+Package: JASPAR2014
+Exemptions: no_large_files
+
+Package: ChAMPdata
+Exemptions: no_large_files
+
+Package: Illumina450ProbeVariants.db
+Exemptions: no_large_files
+
+Package: h5vcData
+Exemptions: no_large_files
+
+Package: COSMIC.67
+Exemptions: no_large_files
+
+Package: HiCDataLymphoblast
+Exemptions: no_large_files
+
+Package: ChimpHumanBrainData
+Exemptions: no_large_files
+
+Package: healthyFlowData
+Exemptions: no_large_files
+
+Package: COHCAPanno
+Exemptions: no_large_files
+
+Package: Affyhgu133aExpr
+Exemptions: no_large_files
+
+Package: Affymoe4302Expr
+Exemptions: no_large_files
+
+Package: DMRcatedata
+Exemptions: no_large_files
+
+Package: Affyhgu133A2Expr
+Exemptions: no_large_files
+
+Package: Affyhgu133Plus2Expr
+Exemptions: no_large_files
+
+Package: bcellViper
+Exemptions: no_large_files
+
+Package: COPDSexualDimorphism.data
+Exemptions: no_large_files
+
+Package: metaMSdata
+Exemptions: no_large_files
+
+Package: FlowSorted.DLPFC.450k
+Exemptions: no_large_files
+
+Package: HSMMSingleCell
+Exemptions: no_large_files
+
+Package: blimaTestingData
+Exemptions: no_large_files
+
+Package: KEGGandMetacoreDzPathwaysGEO
+Exemptions: no_large_files
+
+Package: zebrafishRNASeq
+Exemptions: no_large_files
+
+Package: msd16s
+Exemptions: no_large_files
+
+Package: MUGAExampleData
+Exemptions: no_large_files
+
+Package: pepDat
+Exemptions: no_large_files
+
+Package: shinyMethylData
+Exemptions: no_large_files
+
+Package: GSBenchMark
+Exemptions: no_large_files
+
+Package: fission
+Exemptions: no_large_files
+
+Package: airway
+Exemptions: no_large_files
+
+Package: CRCL18
+Exemptions: no_large_files
+
+Package: HiCDataHumanIMR90
+Exemptions: no_large_files
+
+Package: RUVnormalizeData
+Exemptions: no_large_files
+
+Package: TCGAcrcmiRNA
+Exemptions: no_large_files
+
+Package: TCGAcrcmRNA
+Exemptions: no_large_files
+
+Package: ListerEtAlBSseq
+Exemptions: no_large_files
+
+Package: NGScopyData
+Exemptions: no_large_files
+
+Package: derfinderData
+Exemptions: no_large_files
+
+Package: RRBSdata
+Exemptions: no_large_files
+
+Package: seqc
+Exemptions: no_large_files
+
+Package: genomationData
+Exemptions: no_large_files
+
+Package: RnaSeqSampleSizeData
+Exemptions: no_large_files
+
+Package: WES.1KG.WUGSC
+Exemptions: no_large_files
+
+Package: seq2pathway.data
+Exemptions: no_large_files
+
+Package: CardinalWorkflows
+Exemptions: no_large_files
+
+Package: diggitdata
+Exemptions: no_large_files
+
+Package: grndata
+Exemptions: no_large_files
+
+Package: curatedBreastData
+Exemptions: no_large_files
+
+Package: rcellminerData
+Exemptions: no_large_files
+
+Package: MethylAidData
+Exemptions: no_large_files
+
+Package: SVM2CRMdata
+Exemptions: no_large_files
+
+Package: CopyhelpeR
+Exemptions: no_large_files
+
+Package: SCLCBam
+Exemptions: no_large_files
+
+Package: RnBeads.hg19
+Exemptions: no_large_files
+
+Package: RnBeads.mm10
+Exemptions: no_large_files
+
+Package: RnBeads.mm9
+Exemptions: no_large_files
+
+Package: RnBeads.rn5
+Exemptions: no_large_files
+
+Package: ELMER.data
+Exemptions: no_large_files
+
+Package: AshkenazimSonChr21
+Exemptions: no_large_files
+
+Package: minionSummaryData
+Exemptions: no_large_files
+
+Package: RnBeads.hg38
+Exemptions: no_large_files
+
+Package: RTCGA.clinical
+Exemptions: no_large_files
+
+Package: RTCGA.mutations
+Exemptions: no_large_files
+
+Package: RTCGA.rnaseq
+Exemptions: no_large_files
+
+Package: systemPipeRdata
+Exemptions: no_large_files
+
+Package: mtbls2
+Exemptions: no_large_files
+
+Package: TimerQuant
+Exemptions: no_large_files
+
+Package: QDNAseq.hg19
+Exemptions: no_large_files
+
+Package: QDNAseq.mm10
+Exemptions: no_large_files
+
+Package: SNPhoodData
+Exemptions: no_large_files
+
+Package: miRcompData
+Exemptions: no_large_files
+
+Package: FIs
+Exemptions: no_large_files
+
+Package: furrowSeg
+Exemptions: no_large_files
+
+Package: JASPAR2016
+Exemptions: no_large_files
+
+Package: tofsimsData
+Exemptions: no_large_files
+
+Package: Single.mTEC.Transcriptomes
+Exemptions: no_large_files
+
+Package: RTCGA.methylation
+Exemptions: no_large_files
+
+Package: RTCGA.miRNASeq
+Exemptions: no_large_files
+
+Package: RTCGA.mRNA
+Exemptions: no_large_files
+
+Package: RTCGA.PANCAN12
+Exemptions: no_large_files
+
+Package: RTCGA.RPPA
+Exemptions: no_large_files
+
+Package: RTCGA.CNV
+Exemptions: no_large_files
+
+Package: tximportData
+Exemptions: no_large_files
+
+Package: FlowSorted.CordBlood.450k
+Exemptions: no_large_files
+
+Package: GSE62944
+Exemptions: no_large_files
+
+Package: msqc1
+Exemptions: no_large_files
+
+Package: prostateCancerCamcap
+Exemptions: no_large_files
+
+Package: prostateCancerTaylor
+Exemptions: no_large_files
+
+Package: prostateCancerStockholm
+Exemptions: no_large_files
+
+Package: prostateCancerGrasso
+Exemptions: no_large_files
+
+Package: prostateCancerVarambally
+Exemptions: no_large_files
+
+Package: DAPARdata
+Exemptions: no_large_files
+
+Package: CONFESSdata
+Exemptions: no_large_files
+
+Package: GeuvadisTranscriptExpr
+Exemptions: no_large_files
+
+Package: PasillaTranscriptExpr
+Exemptions: no_large_files
+
+Package: QUBICdata
+Exemptions: no_large_files
+
+Package: etec16s
+Exemptions: no_large_files
+
+Package: HarmanData
+Exemptions: no_large_files
+
+Package: diffloopdata
+Exemptions: no_large_files
+
+Package: EGSEAdata
+Exemptions: no_large_files
+
+Package: IHWpaper
+Exemptions: no_large_files
+
+Package: msPurityData
+Exemptions: no_large_files
+
+Package: curatedMetagenomicData
+Exemptions: no_large_files
+
+Package: minfiDataEPIC
+Exemptions: no_large_files
+
+Package: lydata
+Exemptions: no_large_files
+
+Package: aracne.networks
+Exemptions: no_large_files
+
+Package: ccdata
+Exemptions: no_large_files
+
+Package: scRNAseq
+Exemptions: no_large_files
+
+Package: PtH2O2lipids
+Exemptions: no_large_files
+
+Package: CellMapperData
+Exemptions: no_large_files
+
+Package: HumanAffyData
+Exemptions: no_large_files
+
+Package: M3DExampleData
+Exemptions: no_large_files
+
+Package: KOdata
+Exemptions: no_large_files
+
+Package: flowPloidyData
+Exemptions: no_large_files
+
+Package: HelloRangesData
+Exemptions: no_large_files
+
+Package: FlowSorted.CordBloodNorway.450k
+Exemptions: no_large_files
+
+Package: VariantToolsData
+Exemptions: no_large_files
+
+Package: ChIPexoQualExample
+Exemptions: no_large_files
+
+Package: biotmleData
+Exemptions: no_large_files
+
+Package: TCGAWorkflowData
+Exemptions: no_large_files
+
+Package: microRNAome
+Exemptions: no_large_files
+
+Package: OnassisJavaLibs
+Exemptions: no_large_files
+
+Package: vulcandata
+Exemptions: no_large_files
+
+Package: HarmonizedTCGAData
+Exemptions: no_large_files
+
+Package: curatedTCGAData
+Exemptions: no_large_files
+
+Package: topdownrdata
+Exemptions: no_large_files
+
+Package: HMP16SData
+Exemptions: no_large_files
+
+Package: TCGAbiolinksGUI.data
+Exemptions: no_large_files
+
+Package: TENxBrainData
+Exemptions: no_large_files
+
+Package: mCSEAdata
+Exemptions: no_large_files
+
+Package: RcisTarget.hg19.motifDBs.cisbpOnly.500bp
+Exemptions: no_large_files
+
+Package: hgu133plus2CellScore
+Exemptions: no_large_files
+
+Package: BloodCancerMultiOmics2017
+Exemptions: no_large_files
+
+Package: CLLmethylation
+Exemptions: no_large_files
+
+Package: MetaGxOvarian
+Exemptions: no_large_files
+
+Package: MetaGxBreast
+Exemptions: no_large_files
+
+Package: ASICSdata
+Exemptions: no_large_files
+
+Package: tissueTreg
+Exemptions: no_large_files
+
+Package: HDCytoData
+Exemptions: no_large_files
+
+Package: MetaGxPancreas
+Exemptions: no_large_files
+
+Package: FlowSorted.Blood.EPIC
+Exemptions: no_large_files
+
+Package: MSMB
+Exemptions: no_large_files
+
+Package: sesameData
+Exemptions: no_large_files
+
+Package: qPLEXdata
+Exemptions: no_large_files
+
+Package: GIGSEAdata
+Exemptions: no_large_files
+
+Package: CopyNeutralIMA
+Exemptions: no_large_files
+
+Package: celarefData
+Exemptions: no_large_files
+
+Package: DuoClustering2018
+Exemptions: no_large_files
+
+Package: TENxPBMCData
+Exemptions: no_large_files
+
+Package: TabulaMurisData
+Exemptions: no_large_files
+
+Package: mcsurvdata
+Exemptions: no_large_files
+
+Package: breakpointRdata
+Exemptions: no_large_files
+
+Package: OMICsPCAdata
+Exemptions: no_large_files
+
+Package: RegParallel
+Exemptions: no_large_files
+
+Package: AssessORFData
+Exemptions: no_large_files
+
+Package: PepsNMRData
+Exemptions: no_large_files
+
+Package: HCAData
+Exemptions: no_large_files
+
+Package: CluMSIDdata
+Exemptions: no_large_files
+
+Package: chipseqDBData
+Exemptions: no_large_files
+
+Package: NestLink
+Exemptions: no_large_files
+
+Package: adductData
+Exemptions: no_large_files
+
+Package: macrophage
+Exemptions: no_large_files
+
+Package: FlowSorted.CordBloodCombined.450k
+Exemptions: no_large_files
+
+Package: oct4
+Exemptions: no_large_files
+
+Package: curatedAdipoRNA
+Exemptions: no_large_files
+
+Package: bodymapRat
+Exemptions: no_large_files
+
+Package: MOFAdata
+Exemptions: no_large_files
+
+Package: curatedAdipoChIP
+Exemptions: no_large_files
+
+Package: nanotubes
+Exemptions: no_large_files
+
+Package: HMP2Data
+Exemptions: no_large_files
+
+Package: RNAmodR.Data
+Exemptions: no_large_files
+
+Package: depmap
+Exemptions: no_large_files
+
+Package: muscData
+Exemptions: no_large_files
+
+Package: SBGNview.data
+Exemptions: no_large_files
+
+Package: MouseGastrulationData
+Exemptions: no_large_files
+
+Package: PhyloProfileData
+Exemptions: no_large_files
+
+Package: TENxBUSData
+Exemptions: no_large_files
+
+Package: ReactomeGSA.data
+Exemptions: no_large_files
+
+Package: biscuiteerData
+Exemptions: no_large_files
+
+Package: tartare
+Exemptions: no_large_files
+
+Package: signatureSearchData
+Exemptions: no_large_files
+
+Package: curatedAdipoArray
+Exemptions: no_large_files
+
+Package: WGSmapp
+Exemptions: no_large_files
+
+Package: scTHI.data
+Exemptions: no_large_files
+
+Package: HighlyReplicatedRNASeq
+Exemptions: no_large_files
+
+Package: dorothea
+Exemptions: no_large_files
+
+Package: gpaExample
+Exemptions: no_large_files
+
+Package: spqnData
+Exemptions: no_large_files
+
+Package: SingleCellMultiModal
+Exemptions: no_large_files
+
+Package: spatialLIBD
+Exemptions: no_large_files
+
+Package: optimalFlowData
+Exemptions: no_large_files
+
+Package: celldex
+Exemptions: no_large_files
+
+Package: FieldEffectCrc
+Exemptions: no_large_files
+
+Package: clustifyrdatahub
+Exemptions: no_large_files
+
+Package: timecoursedata
+Exemptions: no_large_files
+
+Package: DropletTestFiles
+Exemptions: no_large_files
+
+Package: TMExplorer
+Exemptions: no_large_files
+
+Package: MethylSeqData
+Exemptions: no_large_files
+
+Package: NanoporeRNASeq
+Exemptions: no_large_files
+
+Package: preciseTADhub
+Exemptions: no_large_files
+
+Package: GenomicDistributionsData
+Exemptions: no_large_files
+
+Package: sampleClassifierData
+Exemptions: no_large_files
+
+Package: scpdata
+Exemptions: no_large_files
+
+Package: imcdatasets
+Exemptions: no_large_files
+
+Package: microbiomeDataSets
+Exemptions: no_large_files
+
+Package: methylclockData
+Exemptions: no_large_files
+
+Package: MACSdata
+Exemptions: no_large_files
+
+Package: SimBenchData
+Exemptions: no_large_files
+
+Package: LRcellTypeMarkers
+Exemptions: no_large_files
+
+Package: ptairData
+Exemptions: no_large_files
+
+Package: MouseThymusAgeing
+Exemptions: no_large_files
+
+Package: ewceData
+Exemptions: no_large_files
+
+Package: ObMiTi
+Exemptions: no_large_files
+
+Package: BioImageDbs
+Exemptions: no_large_files
+
+Package: emtdata
+Exemptions: no_large_files
+
+Package: DExMAdata
+Exemptions: no_large_files
+
+Package: BeadSorted.Saliva.EPIC
+Exemptions: no_large_files
+
+Package: TENxVisiumData
+Exemptions: no_large_files
+
+Package: msigdb
+Exemptions: no_large_files
+
+Package: STexampleData
+Exemptions: no_large_files
+
+Package: GSE13015
+Exemptions: no_large_files
+
+Package: SingleMoleculeFootprintingData
+Exemptions: no_large_files
+
+Package: scanMiRData
+Exemptions: no_large_files
+
+Package: brgedata
+Exemptions: no_large_files
+
+Package: spatialDmelxsim
+Exemptions: no_large_files
+
+Package: GSE103322
+Exemptions: no_large_files
+
+Package: TabulaMurisSenisData
+Exemptions: no_large_files
+
+Package: plotgardenerData
+Exemptions: no_large_files
+
+Package: GSE159526
+Exemptions: no_large_files
+
+Package: curatedTBData
+Exemptions: no_large_files
+
+Package: tuberculosis
+Exemptions: no_large_files
+
+Package: nullrangesData
+Exemptions: no_large_files
+
+Package: NxtIRFdata
+Exemptions: no_large_files
+
+Package: scATAC.Explorer
+Exemptions: no_large_files
+
+Package: easierData
+Exemptions: no_large_files
+
+Package: PCHiCdata
+Exemptions: no_large_files
+
+Package: healthyControlsPresenceChecker
+Exemptions: no_large_files
+
+Package: crisprScoreData
+Exemptions: no_large_files
+
+Package: xcoredata
+Exemptions: no_large_files
+
+Package: RITANdata
+Exemptions: no_large_files
+
+Package: epimutacionsData
+Exemptions: no_large_files
+
+Package: VectraPolarisData
+Exemptions: no_large_files
+
+Package: EpiMix.data
+Exemptions: no_large_files
+
+Package: BioPlex
+Exemptions: no_large_files
+
+Package: MerfishData
+Exemptions: no_large_files
+
+Package: HiContactsData
+Exemptions: no_large_files
+
+Package: SFEData
+Exemptions: no_large_files
+
+Package: WeberDivechaLCdata
+Exemptions: no_large_files
+
+Package: NetActivityData
+Exemptions: no_large_files
+
+Package: octad.db
+Exemptions: no_large_files
+
+Package: MicrobiomeBenchmarkData
+Exemptions: no_large_files
+
+Package: MetaScope
+Exemptions: no_large_files
+
+Package: fourDNData
+Exemptions: no_large_files
+
+Package: DNAZooData
+Exemptions: no_large_files
+
+Package: gDNAinRNAseqData
+Exemptions: no_large_files
+
+Package: marinerData
+Exemptions: no_large_files
+
+Package: scMultiome
+Exemptions: no_large_files
+
+Package: gDRtestData
+Exemptions: no_large_files
+
+Package: HiBED
+Exemptions: no_large_files
+
+Package: orthosData
+Exemptions: no_large_files
+
+Package: multiWGCNAdata
+Exemptions: no_large_files
+
+Package: smokingMouse
+Exemptions: no_large_files
+
+Package: cfToolsData
+Exemptions: no_large_files
+
+Package: HCATonsilData
+Exemptions: no_large_files
+
+Package: TumourMethData
+Exemptions: no_large_files
+
+Package: SpatialDatasets
+Exemptions: no_large_files
+
+Package: raerdata
+Exemptions: no_large_files
+
+Package: curatedPCaData
+Exemptions: no_large_files
+
+Package: DLBCL
+Exemptions: no_large_files
+
+Package: TENxXeniumData
+Exemptions: no_large_files
+
+Package: SubcellularSpatialData
+Exemptions: no_large_files
+
+Package: muleaData
+Exemptions: no_large_files
+
+Package: MouseAgingData
+Exemptions: no_large_files
+
+Package: scaeData
+Exemptions: no_large_files
+
+Package: TransOmicsData
+Exemptions: no_large_files
+
+Package: CytoMethIC
+Exemptions: no_large_files
+
+Package: JohnsonKinaseData
+Exemptions: no_large_files
+
+Package: homosapienDEE2CellScore
+Exemptions: no_large_files
+
+Package: bugphyzz
+Exemptions: no_large_files
+
+Package: EpipwR.data
+Exemptions: no_large_files
+
+Package: LegATo
+Exemptions: no_large_files
+
+Package: CoSIAdata
+Exemptions: no_large_files
+
+Package: ProteinGymR
+Exemptions: no_large_files
+
+Package: eoPredData
+Exemptions: no_large_files
+
+Package: humanHippocampus2024
+Exemptions: no_large_files
+
+Package: TENET.ExperimentHub
+Exemptions: no_large_files
+
+Package: muSpaData
+Exemptions: no_large_files
+
+Package: CENTREprecomputed
+Exemptions: no_large_files
+
+Package: AWAggregatorData
+Exemptions: no_large_files
+
+Package: iModMixData
+Exemptions: no_large_files
+
+Package: ChIPDBData
+Exemptions: no_large_files
+
+Package: nmrdata
+Exemptions: no_large_files
+
+Package: DoReMiTra
+Exemptions: no_large_files
+
+Package: dominatRData
+Exemptions: no_large_files
+
+Package: MutSeqRData
+Exemptions: no_large_files
+
+Package: EMTscoreData
+Exemptions: no_large_files
+
+Package: curatedCRCData
+Exemptions: no_large_files
+
+Package: DMRsegaldata
+Exemptions: no_large_files
+
+Package: HumanRetinaLRSData
+Exemptions: no_large_files

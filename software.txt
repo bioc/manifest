@@ -4947,3 +4947,5 @@ Package: prolfqua
 
 Package: SpatialData.plot
 
+Package: reglScatterplotR
+

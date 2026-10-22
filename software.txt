@@ -4945,3 +4945,5 @@ Package: path2path
 
 Package: prolfqua
 
+Package: SpatialData.plot
+

@@ -4949,3 +4949,5 @@ Package: SpatialData.plot
 
 Package: reglScatterplotR
 
+Package: GDSAnnotator
+

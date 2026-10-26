@@ -4951,3 +4951,5 @@ Package: reglScatterplotR
 
 Package: GDSAnnotator
 
+Package: scOverlay
+

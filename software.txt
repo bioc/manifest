@@ -4965,3 +4965,5 @@ Package: seqRdna
 
 Package: enrichmet
 
+Package: lantern
+

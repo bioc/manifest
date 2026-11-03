@@ -4961,5 +4961,5 @@ Package: alabaster.treese
 
 Package: MagellanNTK
 
-Package: myoRDNA
+Package: seqRdna
 

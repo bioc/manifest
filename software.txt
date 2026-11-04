@@ -4969,3 +4969,5 @@ Package: lantern
 
 Package: scProkaR
 
+Package: tTEscanR
+

@@ -4973,3 +4973,5 @@ Package: tTEscanR
 
 Package: MRManalyzeR
 
+Package: RhyME
+

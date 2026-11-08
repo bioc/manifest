@@ -4975,3 +4975,5 @@ Package: MRManalyzeR
 
 Package: RhyME
 
+Package: crossarrayEWAS
+

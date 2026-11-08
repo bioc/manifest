@@ -4977,3 +4977,5 @@ Package: RhyME
 
 Package: crossarrayEWAS
 
+Package: bHIVE
+

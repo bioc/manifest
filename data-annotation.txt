@@ -103,3 +103,5 @@ Package: methylTFRAnnotationMm10
 
 Package: methylTFRAnnotationHg38
 
+Package: TxDb.Athaliana.Ensembl.TAIR10
+

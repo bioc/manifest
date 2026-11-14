@@ -4999,3 +4999,5 @@ Package: IntegratedLearner
 
 Package: CanvasXpressBio
 
+Package: cellchatr
+

@@ -193,13 +193,7 @@ Package: TBX20BamSubset
 
 Package: MEDIPSData
 
-Package: RMassBankData
-
 Package: KEGGdzPathwaysGEO
-
-Package: pd.atdschip.tiling
-
-Package: ChIPXpressData
 
 Package: fabiaData
 
@@ -227,8 +221,6 @@ Package: ARRmData
 
 Package: cMap2data
 
-Package: ConnectivityMap
-
 Package: DrugVsDiseasedata
 
 Package: HD2013SGI
@@ -239,15 +231,11 @@ Package: antiProfilesData
 
 Package: leukemiasEset
 
-Package: MMDiffBamSubset
-
 Package: prebsdata
 
 Package: DeSousa2013
 
 Package: RNAseqData.HNRNPC.bam.chr14
-
-Package: mammaPrintData
 
 Package: seventyGeneData
 
@@ -273,8 +261,6 @@ Package: PWMEnrich.Mmusculus.background
 
 Package: JASPAR2014
 
-Package: ChAMPdata
-
 Package: Illumina450ProbeVariants.db
 
 Package: h5vcData
@@ -289,15 +275,9 @@ Package: healthyFlowData
 
 Package: COHCAPanno
 
-Package: Affyhgu133aExpr
-
-Package: Affymoe4302Expr
-
 Package: DMRcatedata
 
 Package: Affyhgu133A2Expr
-
-Package: Affyhgu133Plus2Expr
 
 Package: bcellViper
 
@@ -339,8 +319,6 @@ Package: TCGAcrcmiRNA
 
 Package: TCGAcrcmRNA
 
-Package: ListerEtAlBSseq
-
 Package: NGScopyData
 
 Package: derfinderData
@@ -367,8 +345,6 @@ Package: rcellminerData
 
 Package: MethylAidData
 
-Package: SVM2CRMdata
-
 Package: CopyhelpeR
 
 Package: SCLCBam
@@ -389,12 +365,6 @@ Package: minionSummaryData
 
 Package: RnBeads.hg38
 
-Package: RTCGA.clinical
-
-Package: RTCGA.mutations
-
-Package: RTCGA.rnaseq
-
 Package: systemPipeRdata
 
 Package: mtbls2
@@ -411,29 +381,9 @@ Package: miRcompData
 
 Package: FIs
 
-Package: furrowSeg
-
 Package: JASPAR2016
 
-Package: tofsimsData
-
-Package: Single.mTEC.Transcriptomes
-
-Package: RTCGA.methylation
-
-Package: RTCGA.miRNASeq
-
-Package: RTCGA.mRNA
-
-Package: RTCGA.PANCAN12
-
-Package: RTCGA.RPPA
-
-Package: RTCGA.CNV
-
 Package: tximportData
-
-Package: FlowSorted.CordBlood.450k
 
 Package: GSE62944
 
@@ -452,10 +402,6 @@ Package: prostateCancerVarambally
 Package: DAPARdata
 
 Package: CONFESSdata
-
-Package: GeuvadisTranscriptExpr
-
-Package: PasillaTranscriptExpr
 
 Package: QUBICdata
 
@@ -478,8 +424,6 @@ Package: minfiDataEPIC
 Package: lydata
 
 Package: aracne.networks
-
-Package: ccdata
 
 Package: scRNAseq
 
@@ -526,8 +470,6 @@ Package: TCGAbiolinksGUI.data
 Package: TENxBrainData
 
 Package: mCSEAdata
-
-Package: RcisTarget.hg19.motifDBs.cisbpOnly.500bp
 
 Package: hgu133plus2CellScore
 
@@ -817,8 +759,6 @@ Package: scaeData
 
 Package: TransOmicsData
 
-Package: CytoMethIC
-
 Package: JohnsonKinaseData
 
 Package: homosapienDEE2CellScore
@@ -845,8 +785,6 @@ Package: muSpaData
 Package: CENTREprecomputed
 
 Package: AWAggregatorData
-
-Package: iModMixData
 
 Package: ChIPDBData
 

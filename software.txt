@@ -191,8 +191,6 @@ Package: MantelCorr
 
 Package: panp
 
-Package: pathRender
-
 Package: GEOquery
 
 Package: codelink
@@ -450,8 +448,6 @@ Package: LiquidAssociation
 Package: DEGseq
 
 Package: SpeCond
-
-Package: CSAR
 
 Package: frma
 
@@ -755,10 +751,6 @@ Package: gmapR
 
 Package: PADOG
 
-Package: RMassBank
-
-Package: ChIPXpress
-
 Package: MotifDb
 
 Package: GeneNetworkBuilder
@@ -975,8 +967,6 @@ Package: TFBSTools
 
 Package: FGNet
 
-Package: ChAMP
-
 Package: metaSeq
 
 Package: h5vc
@@ -1012,8 +1002,6 @@ Package: SomaticSignatures
 Package: CNEr
 
 Package: COMPASS
-
-Package: GSCA
 
 Package: sangerseqR
 
@@ -1417,8 +1405,6 @@ Package: Path2PPI
 
 Package: ldblock
 
-Package: sevenbridges
-
 Package: AnnotationHubData
 
 Package: iGC
@@ -1563,8 +1549,6 @@ Package: PCAN
 
 Package: bacon
 
-Package: SwathXtend
-
 Package: DNAshapeR
 
 Package: DRIMSeq
@@ -1630,8 +1614,6 @@ Package: epivizrData
 Package: CHRONOS
 
 Package: EGSEA
-
-Package: MMDiff2
 
 Package: EGAD
 
@@ -1748,8 +1730,6 @@ Package: MAST
 Package: PathoStat
 
 Package: matter
-
-Package: MoonlightR
 
 Package: psichomics
 
@@ -3157,8 +3137,6 @@ Package: MsBackendMgf
 
 Package: lisaClust
 
-Package: InterCellar
-
 Package: sitadela
 
 Package: geva
@@ -3281,8 +3259,6 @@ Package: GenomicSuperSignature
 
 Package: SingleMoleculeFootprinting
 
-Package: systemPipeTools
-
 Package: RCSL
 
 Package: spiky
@@ -3352,8 +3328,6 @@ Package: svaRetro
 Package: tanggle
 
 Package: ProteoDisco
-
-Package: scAnnotatR
 
 Package: metapone
 
@@ -3937,8 +3911,6 @@ Package: nipalsMCIA
 
 Package: tadar
 
-Package: TSAR
-
 Package: simona
 
 Package: ClustIRR
@@ -4210,8 +4182,6 @@ Package: dominoSignal
 Package: TnT
 
 Package: DNABarcodes
-
-Package: tidytof
 
 Package: scDiagnostics
 
@@ -4519,8 +4489,6 @@ Package: scLANE
 
 Package: SmartPhos
 
-Package: iModMix
-
 Package: CBN2Path
 
 Package: MSstatsResponse
@@ -4614,8 +4582,6 @@ Package: RBedMethyl
 Package: Battlefield
 
 Package: GOfan
-
-Package: netZooR
 
 Package: fourSynergy
 

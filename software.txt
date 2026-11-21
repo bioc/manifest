@@ -5023,3 +5023,5 @@ Package: methylTFR
 
 Package: inferRecom
 
+Package: selexprepR
+

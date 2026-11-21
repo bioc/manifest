@@ -5021,3 +5021,5 @@ Package: consensusRegions
 
 Package: methylTFR
 
+Package: inferRecom
+

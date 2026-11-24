@@ -5011,3 +5011,7 @@ Package: ChAMP
 
 Package: gDRplots
 
+Package: ggwas
+
+
+

@@ -107,3 +107,5 @@ Package: TxDb.Athaliana.Ensembl.TAIR10
 
 Package: JASPAR
 
+Package: TxDb.Gmax.JGI.Gmv4
+

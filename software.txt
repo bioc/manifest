@@ -5019,3 +5019,5 @@ Package: scSimEval
 
 Package: spiSEE
 
+Package: BamScaleR
+
